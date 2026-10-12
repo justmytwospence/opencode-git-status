@@ -1,5 +1,5 @@
-// opencode-git-status (TUI): the checkout's git status to the right of the prompt, in the
-// format the shell prompt and the other agent footers share (git.ts).
+// opencode-git-status (TUI): a readable checkout summary to the right of the prompt.
+// Formatting and Git status collection live in git.ts.
 //
 // Plain TypeScript rather than JSX, with Solid taken from opencode: see host.ts.
 
