@@ -1,3 +1,5 @@
+> **Retired.** This plugin now lives in [opencode-plugins](https://github.com/justmytwospence/opencode-plugins/tree/main/packages/opencode-status-footer), ported to OpenCode 2. This repository is archived for history; do not install it alongside the suite.
+
 # opencode-git-status
 
 An opencode TUI plugin that shows the checkout's git status to the right of the
